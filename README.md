@@ -13,12 +13,12 @@ This is a **Hostel Management System** project with Admin and User panels. It is
 ## Admin and User Credentials
 
 **Admin**  
-- Email: `isaniul111@gmail.com`  
-- Password: `565656`  
+- Email: `noushadahammed575@gmail.com`  
+- Password: `123456`  
 
 **User**  
 - Email: `isaniul777@gmail.com`  
-- Password: `565656`  
+- Password: `123456`  
 
 ---
 
@@ -98,7 +98,7 @@ npm run dev
 
 ## Contact
 
-For any questions or issues, contact **Saniul Islam** at `isaniul111@gmail.com`.
+For any questions or issues, contact **Nousad Ahammed** at `noushadahammed575@gmail.com`.
 
 ```
 
